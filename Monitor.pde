@@ -29,9 +29,9 @@ void setup() {
   ffmpeg -i video2.mp4 -c copy -an video2nosound.mp4
   */
 
-  fullScreen(2);
+  // fullScreen(2);
   frameRate(60);
-  size(1080, 1920);
+  size(1080, 1920,P3D);
   videoRunner();
 }
 
