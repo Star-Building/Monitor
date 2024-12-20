@@ -200,5 +200,5 @@ app.listen(port, function (error) {
 	if (error)
 		throw error;
 	else
-		console.log("Server is running");
+		console.log("Server is running at http://localhost:8000");
 });
