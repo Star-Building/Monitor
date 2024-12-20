@@ -1,0 +1,19 @@
+{
+    "name": "OhanaStar 3.0",
+    "start_url": "http://localhost:8000?fullscreen=true",
+    "display": "fullscreen",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+          "src": "icons/512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        },
+        {
+          "src": "icons/192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        }
+    ]
+  }
+  

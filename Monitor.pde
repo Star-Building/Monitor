@@ -30,8 +30,8 @@ void setup() {
   */
 
   // fullScreen(2);
-  frameRate(60);
-  size(1080, 1920,P3D);
+  frameRate(30);
+  size(1080, 1175,P3D);
   videoRunner();
 }
 
